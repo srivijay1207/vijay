@@ -1,0 +1,2 @@
+i started learning git and Jenins
+and also has to learn Devops tools Docker & kubernetes
